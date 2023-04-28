@@ -4,7 +4,7 @@
 ![Repos](https://badges.pufler.dev/repos/Sms-RK)
 
 
-DevOps Intern, With more than 3 years exprience in developing, Familiar With Python, Databases.
+DevOps Engineer, With more than 3 years exprience in developing, Familiar With Python, Databases.
 
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=ahmadalibagheri&include_all_commits=true&theme=merko) -->
